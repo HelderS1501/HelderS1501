@@ -68,9 +68,3 @@ Stay tuned — projects will be available soon.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ---
-
-## ⚡ Notes
-
-> Focused on continuous improvement and building efficient, scalable, and maintainable backend solutions.
-
----
