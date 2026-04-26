@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Helder Souza
-##### 💻 Backend Developer | .NET 
+
+💻 Backend Developer focused on .NET and scalable systems
 
 ---
 
 ## 👨‍💻 About Me
 
-Backend developer focused on building scalable and well-structured applications using **.NET**.
+Backend developer focused on building **REST APIs with .NET**.
 
-I have a background in infrastructure and experience collaborating with development teams on backend tasks and automation, which helps me approach systems with a strong focus on reliability and performance.
+I have a background in infrastructure, which helps me design systems with reliability, performance, and maintainability in mind.
 
-Currently improving my skills in **software architecture**, **clean code**, and **backend best practices**.
+Currently improving my skills in software architecture, clean code, and backend best practices.
 
 ---
 
@@ -19,7 +20,6 @@ Currently improving my skills in **software architecture**, **clean code**, and 
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🗄️ Database
 
@@ -34,31 +34,31 @@ Currently improving my skills in **software architecture**, **clean code**, and 
 
 ## 📚 Currently Learning
 
-* Clean Code principles
-* Design Patterns
-* System Design & Software Architecture
+* Applying **Clean Code** principles in real projects
+* Studying **Design Patterns** for backend applications
+* Learning **System Design** and scalable architectures
 
 ---
 
 ## 📈 Current Focus
 
-* Building and improving **REST APIs with .NET**
-* Writing clean, maintainable, and well-structured code
+* Building **REST APIs with .NET**
+* Writing clean and maintainable code
 * Designing scalable backend systems
 
 ---
 
 ## 📌 Projects
 
-> 🚧 Coming soon
+> 🚧 Currently building backend projects focused on APIs and system design
 
-*(APIs and backend projects will be added here)*
+Stay tuned — projects will be available soon.
 
 ---
 
 ## 🎓 Education
 
-🎓 Bachelor's Degree in Information Systems
+🎓 Bachelor’s in Information Systems
 
 ---
 
