@@ -8,23 +8,26 @@ Currently improving my skills in software architecture, clean code, and backend 
 
 ---
 
-<h3>📫 Contact</h3>
+### 📊 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelderS1501&theme=gruvbox" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=HelderS1501&theme=gruvbox" />
+</a>
 
----
-<br>
+<div align="center">
+  <p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderS1501&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+</div>
 
 <div align="center">
   <h3>🚀 Technologies & Tools</h3>
 </div>
 
 ---
-
-[![](https://github-readme-stats.vercel.app/api?username=HelderS1501&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderS1501&hide_progress=true&theme=gruvbox)
-
 
 <p>
   
