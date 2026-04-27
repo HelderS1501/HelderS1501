@@ -1,5 +1,7 @@
 
+
 <h1>👨‍💻 About Me</h1>
+<p>
 Backend developer focused on building **REST APIs with .NET**.
 I have a background in infrastructure, which helps me design systems with reliability, performance, and maintainability in mind.
 Currently improving my skills in software architecture, clean code, and backend best practices.
@@ -20,24 +22,27 @@ Currently improving my skills in software architecture, clean code, and backend 
 
 ---
 
+[![](https://github-readme-stats.vercel.app/api?username=HelderS1501&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderS1501&hide_progress=true&theme=gruvbox)
+
+
+<p>
+  
 ### 🧠 Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
-<br>
 
 ### 🗄️ Database
 ![postgresql](https://img.shields.io/badge/postgre-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-003B57?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-<br>
+<p>
 
 ### ⚙️ Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
-
 <br>
 
 <h4>📚 Currently Learning</h4>
