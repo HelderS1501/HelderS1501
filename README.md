@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtybjBqbHN1OXQyMTl1bnpxZjFhbnhrd3ZrdGxxcnVlaWlzb2Y5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="1010" 
+       height="407" 
+       style="max-width: 100%; height: auto; border-radius: 8px;" />
+</p>
+
+
 <h1>👨‍💻 About Me</h1>
 <p>
 Backend developer focused on building **REST APIs with .NET**.
@@ -59,15 +67,6 @@ Currently improving my skills in software architecture, clean code, and backend 
 * Building **REST APIs with .NET**
 * Writing clean and maintainable code
 * Designing scalable backend systems
-
----
-<br>
-
-<h4>📌 Projects</h4>
-
-> 🚧 Currently building backend projects focused on APIs and system design
-
-* Stay tuned — projects will be available soon.
 
 ---
 
