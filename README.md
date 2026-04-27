@@ -1,8 +1,9 @@
+
 # 👋 Hi, I'm Helder Souza
-
 💻 Backend Developer focused on .NET and scalable systems
-
+<br>
 ---
+<br>
 
 ## 👨‍💻 About Me
 
@@ -13,6 +14,7 @@ I have a background in infrastructure, which helps me design systems with reliab
 Currently improving my skills in software architecture, clean code, and backend best practices.
 
 ---
+<br>
 
 ## 🚀 Technologies & Tools
 
@@ -27,6 +29,7 @@ Currently improving my skills in software architecture, clean code, and backend 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
+<br>
 
 ## 📚 Currently Learning
 
@@ -35,6 +38,7 @@ Currently improving my skills in software architecture, clean code, and backend 
 * Learning **System Design** and scalable architectures
 
 ---
+<br>
 
 ## 📈 Current Focus
 
@@ -43,6 +47,7 @@ Currently improving my skills in software architecture, clean code, and backend 
 * Designing scalable backend systems
 
 ---
+<br>
 
 ## 📌 Projects
 
