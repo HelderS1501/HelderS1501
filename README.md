@@ -8,26 +8,23 @@ Currently improving my skills in software architecture, clean code, and backend 
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelderS1501&theme=gruvbox&hide_border=true" />
-</a>
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=HelderS1501&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=490&card_height=190" />
+  <img height=120 align="center" src="https://streak-stats.demolab.com?user=HelderS1501&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=490&card_height=190" />
 </a>
 
-<div align="center">
-  <p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderS1501&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&card_width=320" />
-</div>
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderS1501&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&card_width=320" />
 
-<div align="center">
-  <h3>🚀 Technologies & Tools</h3>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=HelderS1501&theme=gruvbox&hide_border=true" />
+</a>
+
+<br>
+  
+<h3>🚀 Technologies & Tools</h3>
 
 ---
-
 <p>
   
 ### 🧠 Backend
@@ -75,10 +72,4 @@ Currently improving my skills in software architecture, clean code, and backend 
 ---
 
 <br>
-
-<h4>🎓 Education</h4>
-
-* Bachelor’s in Information Systems
-
----
 
